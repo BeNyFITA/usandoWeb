@@ -1,0 +1,15 @@
+{
+  "name": "aulas_online",
+  "version": "1.0.0",
+  "description": "é o protocolo que gerencia as transformações web entre clientes e servidores",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
