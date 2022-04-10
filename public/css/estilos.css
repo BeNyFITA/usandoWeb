@@ -1,0 +1,34 @@
+div {
+border: 3px solid gray;
+padding: 30px;
+margin: 30px;
+}
+header {
+    border: 3px solid gray;
+    padding: 30px;
+    margin: 30px;
+    }
+footer {
+    border: 3px solid gray;
+    padding: 30px;
+    margin: 30px;
+    }
+main {
+    border: 3px solid gray;
+    padding: 30px;
+    margin: 30px;
+    }
+section{
+    border-top: 2px dotted gray;
+    border-bottom: 2px dotted gray;
+    }
+    
+article {
+    padding: 20px ;
+    margin: 20px 0 ;
+    background-color: bisque;
+}
+
+span {
+    background-color: aquamarine;
+}
